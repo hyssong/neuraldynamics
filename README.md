@@ -33,4 +33,4 @@ Raw functional MRI data of the **SitcOm, Nature documentary, Gradcpt (SONG)** da
 
 **3. code**: analysis code
   - hmmfit.py: runs HMM, i.e., infers model parameters from ts_*.mat and decodes latent state sequence
-  - Jupyter notebooks that reproduce Figure 1 to 7
+  - Jupyter notebooks that reproduce Figure 1 to 5
