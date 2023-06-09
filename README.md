@@ -2,7 +2,7 @@
 
 **Song, H., Shim, W. M., Rosenberg, M. D. (2022) Large-scale neural dynamics in a shared low-dimensional state space reflect cognitive and attentional dynamics.**
 
-Raw functional MRI data of the **SitcOm, Nature documentary, Gradcpt (SONG)** dataset is available on OpenNeuro [https://openneuro.org/datasets/ds004592]. The associated behavioral data, processed fMRI output, and main analysis codes are published here. Processed data or analysis on datasets other than SONG are not published. For additional inquiries, please contact Hayoung Song (hyssong@uchicago.edu).
+Raw functional MRI data of the **SitcOm, Nature documentary, Gradual-onset continuous performance task (SONG)** dataset is available on OpenNeuro [https://openneuro.org/datasets/ds004592]. The associated behavioral data, processed fMRI output, and main analysis codes are published here. Processed data or analysis on datasets other than SONG are not published. For additional inquiries, please contact Hayoung Song (hyssong@uchicago.edu).
 
 **1. behavior**: behavioral experiment data
   - sitcomep1, sitcomep2, documentary_beh.mat
