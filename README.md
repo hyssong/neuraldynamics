@@ -15,7 +15,6 @@ Raw functional MRI data of the **SitcOm, Nature documentary, Gradual-onset conti
   - traitscores.csv
     - subjID, sex (male/female), handedness (right/left), age
     - overall engagement ratings (oral report on a scale of 1 to 9) after movie watching scans
-    - gradCPT performance: d-prime and mean of response time variability
     - working memory capacity (K) measured with a color working memory task (Zhang & Luck, 2008 *Nature*) using set size 6.
   - hcpparticipants.csv: a list of HCP participant IDs that were used in the study
 
